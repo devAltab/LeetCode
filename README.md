@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/devAltab/LeetCode/tree/master/0054-spiral-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/devAltab/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/devAltab/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/devAltab/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/devAltab/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/devAltab/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
