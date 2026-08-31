@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devAltab/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/devAltab/LeetCode/tree/master/0058-length-of-last-word) |
 ## Backtracking
 |  |
 | ------- |
