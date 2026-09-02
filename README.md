@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devAltab/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/devAltab/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/devAltab/LeetCode/tree/master/0058-length-of-last-word) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devAltab/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/devAltab/LeetCode/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devAltab/LeetCode/tree/master/0022-generate-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/devAltab/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/devAltab/LeetCode/tree/master/1046-last-stone-weight) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/devAltab/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
