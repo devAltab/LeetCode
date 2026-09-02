@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/devAltab/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/devAltab/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/devAltab/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/devAltab/LeetCode/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devAltab/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/devAltab/LeetCode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
